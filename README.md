@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mandavalli Laxmi Naga Mallika</h1>
+
+<h1 align="center">Hi 👋, I'm Mandavalli Laxmi Naga Mallika  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallika-08&label=Profile%20views&color=0e75b6&style=flat" alt="mallika-08" /> </p>
 
 
 
-- 🔭 I’m investing my time on **Back-end and Frameworks**
+- 🔭 I’m investing my time on **Back-end and Frameworks** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🌱 I’m currently working on project **Pixle prose**
 
 - 👨‍💻 I'm aiming to become **MREN/MEAN Stack Developer**
 
-- 🎓 I'm pursuing **my bachelor's in IT at Sreenidhi Institute of Science and Technology**
+- 🎓 I'm pursuing **my bachelor's in IT at Sreenidhi Institute of Science and Technology**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 📫 How to reach me **lakshminagamallika.mandavalli@gmail.com, https://www.linkedin.com/in/laxmi-naga-mallika-b02b97261/**
 
+**I'm an Early 🐤** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +27,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
