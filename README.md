@@ -20,6 +20,11 @@
 
 **I'm an Early 🐤** 
 
+### Achievements ✌️
+✔ our team has won the Social Entrepreneur category for our project, MedBot, at the 2-day virtual hackathon organized by NodeBrew. NodeBrew is an international non-profit organization dedicated to fostering inclusivity in technology through education and networking. This hackathon attracted over 160+ participants from around the world, making our accomplishment particularly significant.
+View our work Medbot-AI at : https://github.com/Mallika-08/MedBot
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laxmi-naga-mallika-b02b97261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxmi-naga-mallika-b02b97261" height="30" width="40" /></a>
