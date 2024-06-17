@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on project **Pixle prose**
 
-- 👨‍💻 I'm aiming to become **MREN/MEAN Stack Developer**
+- 👨‍💻 I'm aiming to become **MERN/MEAN Stack Developer**
 
 - 🎓 I'm pursuing **my bachelor's in IT at Sreenidhi Institute of Science and Technology**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
